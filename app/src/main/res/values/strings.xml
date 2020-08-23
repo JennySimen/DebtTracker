@@ -3,6 +3,10 @@
     <string name="skip">Skip</string>
     <string name="signup">Create your account</string>
     <string name="login">Login</string>
+    <string name="reg">Signup</string>
     <string name="already">Already have an account?</string>
     <string name="over">Manage your debts and loans easily without stress</string>
+    <string name="name">Name</string>
+    <string name="Email">Email</string>
+    <string name="password">Password</string>
 </resources>
